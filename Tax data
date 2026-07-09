@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main() {
+    float price = 89.75;
+    float tax = 18.50;
+    printf("price = %.2f",price);
+    printf("\ntax = %.2f",tax);
+    return 0;
+}
