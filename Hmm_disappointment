@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main () {
+int jason_disappointment = 1000;
+printf("%d\n",jason_disappointment);
+return 0;
+}
