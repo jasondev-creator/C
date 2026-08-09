@@ -21,6 +21,3 @@ printf("\n The strings are not equal.");
 }
 return 0;
 }
-
-
-}
