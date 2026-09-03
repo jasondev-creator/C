@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main () {
 int jason_mood;
-scanf("%d",jason_mood);
+scanf("%d",&jason_mood);
 switch(jason_mood)
 {
 case 1:
